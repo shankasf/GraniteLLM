@@ -1,0 +1,41 @@
+Title: Professional Experience - Amazon (May 2022 – Aug 2024)
+
+Sagar Shankaran worked as a Subject Matter Expert at Amazon in Bengaluru, India. His responsibilities included:
+- Performing tasks on the Human Machine Interface (HMI) Web application with high accuracy within required timeframes.
+- Managing and mentoring team members, fostering their growth within the organization.
+- Creating various reports (daily, weekly, monthly, and quarterly) to track associate performance.
+- Supporting operational management by identifying anomalies and enhancing process efficiency.
+
+Title: Professional Experience - Amazon (May 2021 – March 2022)
+
+Sagar served as a Machine Learning Data Associate 1, working on the Amazon HMI platform to generate data for Machine Learning models. His key tasks included:
+- Producing data inputs to train machine learning models for automation.
+- Translating guidelines into daily tasks and prioritizing data processing as required.
+
+Title: Education
+
+- Master’s in Artificial Intelligence at Marist College (starting Fall 2024).
+- Bachelor of Technology in Computer Science and Engineering from Oriental College of Technology, Bhopal (completed in 2020).
+
+Title: Internship - Vinove Software (Feb 2020 – March 2020)
+
+As a Software Development Engineering Intern, Sagar trained in .NET technology, learned C# and MS-SQL Server, and developed a library management system using ASP.NET and the Entity Framework.
+
+Title: Projects
+
+- College Management System (July 2020): An Android-based application for managing student and faculty records, with Firebase for authentication and database.
+- ChatOn (Dec 2018): A chat application for Android using Firebase for database and phone authentication.
+- DoorStep Store (July 2017): An e-commerce Android app for online grocery shopping with cart functionality and cash-on-delivery payment option.
+
+Title: Sagar's Technical Skills
+
+- Programming Languages: C, C#, Java
+- Tools: Visual Studio, Android Studio
+- Knowledge Areas: Strong foundation in data structures, algorithms, and networking.
+
+Title: Achievements
+
+- Ranked 34,316 worldwide in Java on HackerRank (2020).
+- Active participant in Confederation of Indian Industry (CII) activities (2020).
+- Participated in a Startup and Leadership event by AICTE and the Government of India (2017).
+- Organized three Happiness Yoga Programs with over 100 participants for the Art of Living International Foundation (2016).

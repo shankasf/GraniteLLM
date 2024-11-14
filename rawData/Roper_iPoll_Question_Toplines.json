@@ -1,0 +1,110 @@
+[
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling gun violence?",
+        "Biden": 32,
+        "Trump": 33,
+        "Both Equally": 4,
+        "Neither": 31,
+        "Skipped": null,
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling education?",
+        "Biden": 37,
+        "Trump": 30,
+        "Both Equally": 5,
+        "Neither": 27,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling inflation?",
+        "Biden": 31,
+        "Trump": 41,
+        "Both Equally": 3,
+        "Neither": 25,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling the war between Ukraine and Russia?",
+        "Biden": 33,
+        "Trump": 36,
+        "Both Equally": 4,
+        "Neither": 28,
+        "Skipped": null,
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling health care?",
+        "Biden": 38,
+        "Trump": 28,
+        "Both Equally": 6,
+        "Neither": 28,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling classified documents?",
+        "Biden": 33,
+        "Trump": 23,
+        "Both Equally": 3,
+        "Neither": 41,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling the economy?",
+        "Biden": 31,
+        "Trump": 43,
+        "Both Equally": 4,
+        "Neither": 21,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling crime?",
+        "Biden": 28,
+        "Trump": 41,
+        "Both Equally": 4,
+        "Neither": 27,
+        "Skipped": "*",
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    },
+    {
+        "question_text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling climate change?",
+        "Biden": 39,
+        "Trump": 22,
+        "Both Equally": 5,
+        "Neither": 33,
+        "Skipped": 1,
+        "Sample Size": 528,
+        "Sample Type": "National adult",
+        "Date": "2024-02-09",
+        "Citation": "ABC News/Ipsos Poll"
+    }
+]
